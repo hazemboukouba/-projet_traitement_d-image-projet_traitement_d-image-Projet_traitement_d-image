@@ -42,7 +42,7 @@ Ce projet vise à développer un système de vision artificielle capable de dét
 ## **📸 Aperçu**
 Voici un aperçu du système en action :  
 
-![Aperçu](./Capture3.PNG)
+![Aperçu](./traitement_d'image/Capture3.PNG)
 
 ---
 ## 🎉 Auteur
